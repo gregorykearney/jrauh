@@ -1,2 +1,2 @@
-# jrauh.github.io
+# gregorykearney.io
 Josh's Website
