@@ -1,0 +1,40 @@
+---
+title: "Media Appearances"
+---
+
+**CNBC "Squawk Box," May 2016**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18hfgetTOe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**CGTN America, May 2015**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbGKNl8v4r4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**92Y Plus Interview, April 2014**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0NvM46w2lAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**CNBC Nightly Business Report, April 2013**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bvu-MQMYQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**PBS NewsHour, June 2012**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VjbNnkxVKZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-family: Helvetica;
+      font-size: 11px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+  color: Black;
+}
+h1.title {
+  font-size: 20px;
+  color: Maroon;
+}

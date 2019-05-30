@@ -1,0 +1,19 @@
+name: "Josh Rauh Website"
+navbar: 
+  title: "<img id=\"logo\" style=\"width: 20px;\" src=\"stanford1.png\" />"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: about.html
+    - text: "Media"
+      menu:
+        - text: "State and Local Pensions"
+          href: policyedvideos.html
+        - text: "Media Appearances"
+          href: mediaappearances.html
+        - text: "Bio & Contact"
+          href: biocontact.html
+output:
+  html_document:
+    theme: cosmo

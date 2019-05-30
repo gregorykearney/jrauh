@@ -1,0 +1,44 @@
+---
+title: "Bio & Contact"
+---
+
+<center>
+
+![](JoshRauh4.jpg)
+
+</center>
+
+**Full Bio**
+
+Joshua D. Rauh is a senior fellow and Director of Research at the Hoover Institution and the Ormond Family Professor of Finance at Stanford’s Graduate School of Business. He formerly taught at the University of Chicago’s Booth School of Business (2004–9) and the Kellogg School of Management (2009–12).
+
+Rauh studies corporate investment, business taxation, government pension liabilities, and investment management. He has published numerous journal articles and was awarded the 2006 Brattle Prize for the outstanding research paper on corporate finance published in the Journal of Finance for his paper "Investment and Financing Constraints: Evidence from the Funding of Corporate Pension Plans." In 2011 he won the Smith Breeden Prize for the outstanding research paper on capital markets, published in the Journal of Finance, for his paper "Public Pension Promises: How Big Are They and What Are they Worth?" coauthored with Robert Novy-Marx. His other writings include "Earnings Manipulation, Pension Assumptions and Managerial Investment Decisions," coauthored with Daniel Bergstresser and Mihir Desai, which won the Barclays Global Investor Best Symposium Paper from the European Finance Association and appeared in the Quarterly Journal of Economics. Other work has appeared in the Review of Financial Studies, the Journal of Financial Economics, and the Journal of Political Economy.
+
+Rauh’s research on state and local pension systems in the United States has received national media coverage in outlets such as the Wall Street Journal, the New York Times, the Financial Times, and The Economist .
+
+Rauh received a BA degree in economics, magna cum laude with distinction, from Yale University and a PhD in economics from the Massachusetts Institute of Technology.
+
+**Contact & CV**
+
+Email: rauh@stanford.edu
+
+Twitter: @joshrauh
+
+Phone: + 1 (650) 723-9898
+
+Curriculum Vitae: [CV](https://web.stanford.edu/~rauh/RauhCV.pdf)
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-family: Helvetica;
+      font-size: 11px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+  color: Black;
+}
+h1.title {
+  font-size: 20px;
+  color: Maroon;
+}

@@ -1,0 +1,43 @@
+---
+title: "Dr. Joshua D. Rauh"
+output: 
+  html_document: 
+# header-includes:
+#    theme: null
+    css: wsbackground.css
+---
+
+<center>
+
+![](JoshRauh.jpg)
+
+</center>
+
+<center>
+
+<span style="color:white">**Director of Research and Senior Fellow, Hoover Institution, Stanford University**</span>
+
+![](Hoover Institution.jpg) 
+
+<span style="color:white">**Ormond Family Professor of Finance, Stanford Graduate School of Business**</span>
+
+![](Stanford GSB.jpg)
+
+<span style="color:white">**Senior Fellow, Stanford Institute for Economic Policy Research (SIEPR)**</span>
+
+</center>
+
+
+
+
+<style type="text/css">
+
+body{ font-size: 11px;
+      font-color: white;
+}
+h1.title {
+  font-size: 20px;
+  color: Maroon;
+}
+
+
