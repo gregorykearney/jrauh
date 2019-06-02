@@ -1,0 +1,53 @@
+---
+title: "State and Local Pensions"
+---
+
+**Important Links**
+
+[Interactive Map of Pension Liability by State and City](https://www.policyed.org/pension-pursuit/pension-liability-state/map)
+
+FAQ Regarding Pension Liability Interactive Map - TO BE ADDED
+
+**Pension Pursuit Series**
+
+A Misalignment of Interests: The Politics of Pension Funding
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCicpLQIz2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Kicking the Can: Concealing Budget Shortfalls by Underfunding Pensions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCW1M6iPgT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Risky Business: Hoping High Returns Fund the Pension Gap
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sYz77Z5PMCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Unfounded Optimism: High Investment Returns are History
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aApHq21KlvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Off by Trillions: The Reality of our Pension Problem
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_8KlJgaS42U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**Policy Briefs**
+
+Josh Rauh Warns Why Taxpayers Will Have to Bail Out Public Pensions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WnEhzxNEwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-family: Helvetica;
+      font-size: 11px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+  color: Black;
+}
+h1.title {
+  font-size: 20px;
+  color: Maroon;
+}
