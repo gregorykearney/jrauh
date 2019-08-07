@@ -1,4 +1,4 @@
-﻿code,state,lat,lon,total_contribution,additional_contribution_exp_r,additional_contri_mvl,required_contribution _ exp_r,required_contri_mvl,covered_employee_payroll,actually_contributed,prevent_rise_exp_r,prevent_rise_mvl
+code,state,lat,lon,total_contribution,additional_contribution_exp_r,additional_contri_mvl,required_contribution _ exp_r,required_contri_mvl,covered_employee_payroll,actually_contributed,prevent_rise_exp_r,prevent_rise_mvl
 AL,Alabama,32.69,-86.81,1995247,209607,1190485,2204854,3185732,20930414,18.823,20.801,30.054
 AK,Alaska,64.72,-153.63,658161,183876,403044,842037,1061205,3644566,38.453,49.196,62.001
 AZ,Arizona,34.26,-111.63,2391967,295522,1146752,2687489,3538719,21656088,23.451,26.348,34.693
